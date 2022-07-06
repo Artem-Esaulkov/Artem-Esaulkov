@@ -1,6 +1,6 @@
 # Есаулков Артем Александрович
 
-![My Avatar](./avatar.jpg)
+![My Avatar](https://cloud.mail.ru/public/ZkL8/yk4h6iRnS)
 
 ## Общая информация
 - [Телефон](+79049894443)
