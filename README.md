@@ -1,7 +1,7 @@
 # Есаулков Артем Александрович
 
 ## Общая информация
-- [Телефон](tel:+79049894443)
+- [Телефон](tel:89049894443)
 - Telegram: @ArtemEsaulkov
 - [E-mail](mailto:EsaulkovAA@inbox.ru)
 - [GitHub](https://github.com/Artem-Esaulkov) 
