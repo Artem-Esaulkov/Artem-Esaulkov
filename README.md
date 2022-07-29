@@ -1,8 +1,7 @@
 # Есаулков Артем Александрович
 
 ## Общая информация
-- [Телефон](tel:89049894443)
-- Telegram: @ArtemEsaulkov
+- [Telegram](https://t.me/ArtemEsaulkov)
 - [E-mail](mailto:EsaulkovAA@inbox.ru)
 - [GitHub](https://github.com/Artem-Esaulkov) 
 - Дата рождения: 22.10.1991
