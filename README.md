@@ -19,7 +19,7 @@
 -	Вёрстка макетов из Figma, Photoshop различной сложности;
 -	Работа с GitHub;
 -	Сборка Webpack;
-- Базовые знания серверной разработки на Node.js, Express.js;
+- Базовые знания серверной разработки на Node.js, Express.js, работа с БД MongoDB;
 -	Прошёл обучение по визуальной вёрстке (сервис WebFlow) и переносу вёрстки на WordPress:
 ![Сертификат об обучении](https://github.com/Artem-Esaulkov/Artem-Esaulkov/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20Webflow-Wordpress.jpg)
 
