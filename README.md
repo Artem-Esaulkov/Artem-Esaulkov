@@ -6,17 +6,17 @@
 - [GitHub](https://github.com/Artem-Esaulkov) 
 - Дата рождения: 22.10.1991
 
-## Цель
-Получение должности Frontend-разработчик
+## Коротко обо мне
+Frontend-разработчик, 31 год
 
 ## Ключевые компетенции
--	Знание Javascript (ES6), решаю задачи на Codewars уровень 5kyu;
+-	Javascript (ES6);
 - DOM, REST API;
--	Разработка приложений React;
--	Уверенные знания HTML, CSS;
+-	Разработка приложений React, Next.js;
+-	Уверенные знания HTML, CSS, Sass;
 ![Сертификат об обучении](https://github.com/Artem-Esaulkov/Artem-Esaulkov/blob/main/%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%20HTML%20CSS.jpg)
 - Адаптивная вёрстка по БЭМ;
-- Базовые знания препроцессора Sass;
+- Базовые знания TypeScript;
 -	Вёрстка макетов из Figma, Photoshop различной сложности;
 -	Работа с GitHub;
 -	Сборка Webpack;
